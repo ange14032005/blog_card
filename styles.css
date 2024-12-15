@@ -39,7 +39,7 @@ main {
     background: var(--white);
     border: 1px solid var(--gray-500);
     border-radius: var(--radius);
-    box-shadow: 7px 7px 1px black;
+    box-shadow: 7px 7px 1px black; /* Assure une ombre visible */
     text-align: left;
 }
 
@@ -54,7 +54,7 @@ main {
 }
 
 .button {
-    display: inline-block;
+    display: inline-block; /* Limite l'arrière-plan au texte */
     padding: 10px 20px;
     max-width: min-content;
     background-color: var(--yellow);
@@ -63,25 +63,25 @@ main {
     border-radius: var(--radius);
     text-decoration: none;
     font-weight: bold;
-    margin: 10px 0;
+    margin: 10px 0; /* Optionnel : ajoute un peu d'espace autour du bouton */
 }
 
 .article img {
-    width: 100%;
+    width: 100%; /* Largeur maximale pour l'image principale */
     border-radius: var(--radius);
 }
 
 .profil img {
-    width: 50px;
+    width: 50px; /* Taille fixe pour la photo de profil */
     height: 50px;
-    border-radius: 50%;
+    border-radius: 50%; /* Rend la photo de profil ronde */
     margin-right: 10px;
-    vertical-align: middle;
+    vertical-align: middle; /* Aligne l'image avec le texte */
 }
 
 .profil {
     display: flex;
-    align-items: center;
+    align-items: center; /* Centre verticalement le texte à côté de l'image */
     margin-top: 20px;
     font-weight: bold;
 }
