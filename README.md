@@ -6,7 +6,6 @@ Ceci est une solution au [défi de la carte d'aperçu de blog sur Frontend Mento
 
 - [Vue d'ensemble](#vue-densemble)
   - [Le défi](#le-défi)
-  - [Capture d'écran](#capture-décran)
   - [Liens](#liens)
 - [Mon processus](#mon-processus)
   - [Construit avec](#construit-avec)
