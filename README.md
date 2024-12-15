@@ -21,15 +21,9 @@ Les utilisateurs doivent pouvoir :
 - Voir les états de survol et de mise au point pour tous les éléments interactifs de la page
 - Voir la carte du blog avec un design clair et convivial
 
-### Capture d'écran
-
-![](./screenshot.jpg)
-
-**Note :** N'oublie pas d'ajouter une capture d'écran de ton projet ou d'utiliser un outil comme [FireShot](https://getfireshot.com/) pour en prendre une et mettre à jour l'URL de l'image ci-dessus.
-
 ### Liens
 
-- Solution URL : [Lien vers la solution ici](https://ton-url-de-solution.com)
+- Solution URL : [Lien vers la solution ici](https://github.com/ange14032005/blog_card.git)
 - Live Site URL : [Lien vers le site en direct ici](https://ange14032005.github.io/blog_card/)
 
 ## Mon processus
